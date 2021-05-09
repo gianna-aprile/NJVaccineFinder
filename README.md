@@ -1,7 +1,9 @@
 # NJ Covid Vaccine Tweetbot
 ## **Follow [@NjVaccineFinder](https://twitter.com/NjVaccineFinder) on Twitter**
-![Twitter Info](Screenshots/TwitterInfo.jpeg)
+![Twitter Info](Screenshots/VaccineBot.png)
 _____________________________________________________
+
+**Created By**: Gianna Aprile and Kyle Litton
 
 **Disclaimer**: The goal of this project is to help people in NJ find covid vaccine appointments. We use the bot to notify followers that appoinments are ***available*** we do NOT schedule appointments for anyone. We do not condone people attempting to use bots to register for appointments.
 
